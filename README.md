@@ -2,17 +2,17 @@
 
 ## Objective
 
-ChildWellMap aims to leverage APIs and public health data to analyze child health indicators and hospital density across various regions. Main objective is to investigate the correlation between the availability of healthcare facilities and child health outcomes, identifying potential areas for public health intervention. It is a sample project designed to test abilities in data collection, map analysis, and the application of public health concepts.
+ChildWellMap uses APIs and public health data to analyze child health indicators and hospital density across various regions. The main objective is to investigate the correlation between the availability of healthcare facilities and child health outcomes, identifying potential areas for public health intervention. It is a sample project designed to test abilities in data collection, map analysis, and the application of public health concepts.
 
 ## Questions:
 
 ### 1. What is the distribution of hospitals and healthcare facilities in different regions?
 
 - Use the Google Maps API to collect data on hospitals and healthcare facilities locations.
-- Map these facilities to visualize their distribution and identify areas with low healthcare access (e.g., hospitals per 1,000,000, and on a geographic level).
-- Also, collect the ratings of the hospital to calculate, for example, country average.
+- Map these facilities to visualize their distribution and identify areas with low healthcare access (e.g., hospitals per 1,000,000 and on a geographic level).
+- Also, collect the ratings of the hospital to calculate, for example, the country average.
 
-### 2. How do child health indicators (e.g., vaccination rates, malnutrition rates, infant mortality rates) vary across these regions?
+### 2. How do child health indicators (e.g., vaccination, malnutrition, and infant mortality rates) vary across these regions?
 
 - Gather data on child health indicators from public health databases or APIs.
 - Analyze these indicators to identify patterns or disparities across different geographic areas.
@@ -24,7 +24,7 @@ ChildWellMap aims to leverage APIs and public health data to analyze child healt
 
 ## Expected Outcome
 
-Produce a presentation that addresses the questions (1-3), supported by data visualizations, maps, and statistical analyses. The work should provide insights into the current state of child health and healthcare accessibility, highlighting areas in need of public health interventions.
+Produce a presentation that addresses the questions (1-3), supported by data visualizations, maps, and statistical analyses. The work should provide insights into the current state of child health and healthcare accessibility, highlighting areas needing public health interventions.
 
 ## Data Collection and Analysis
 
@@ -34,4 +34,4 @@ Produce a presentation that addresses the questions (1-3), supported by data vis
 - Perform statistical analyses to investigate correlations between hospital density and health outcomes, considering potential confounding factors.
 - Visualize the findings using maps and charts to illustrate the geographic and statistical relationships between hospital density and child health indicators.
 
-The work is an interdisciplinary project that combines health sciences, data science, and map analysis to address critical issues in public health. It offers the opportunity to develop practical skills in data analysis and public health policy while contributing to the understanding of healthcare accessibility and its impact on child health.S
+The work is an interdisciplinary project that combines health sciences, data science, and map analysis to address critical issues in public health. It offers the opportunity to develop practical skills in data analysis and public health policy while contributing to understanding healthcare accessibility and its impact on child health.
