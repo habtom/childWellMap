@@ -28,7 +28,7 @@ Produce a presentation that addresses the questions (1-3), supported by data vis
 
 ## Data Collection and Analysis
 
-- Use the Google Maps API to collect map data on hospitals/healthcare facilities.
+- Use the Google Maps API to collect map data on hospitals/healthcare facilities per country.
 - Gather child health indicator data from reputable public health sources or APIs.
 - Map the distribution of healthcare facilities and analyze geographic patterns in child health indicators.
 - Perform statistical analyses to investigate correlations between hospital density and health outcomes, considering potential confounding factors.
